@@ -1,0 +1,68 @@
+{
+  "conversations": [
+    {
+      "customer_id": 1,
+      "conversation_id": "conv_1",
+      "messages": [
+        {
+          "sender": "customer",
+          "timestamp": "2024-02-24T10:00:00",
+          "message": "Hello, I would like to inquire about increasing my withdrawal limit."
+        },
+        {
+          "sender": "agent",
+          "timestamp": "2024-02-24T10:05:00",
+          "message": "Sure, I can assist you with that. Can you please provide your customer ID?"
+        },
+        {
+          "sender": "customer",
+          "timestamp": "2024-02-24T10:08:00",
+          "message": "My customer ID is 12345."
+        },
+        {
+          "sender": "agent",
+          "timestamp": "2024-02-24T10:10:00",
+          "message": "Thank you. Could you also provide some information about your current financial situation?"
+        },
+        {
+          "sender": "customer",
+          "timestamp": "2024-02-24T10:15:00",
+          "message": "Sure, I have been a customer for 5 years and my annual income is $60,000."
+        }
+      ],
+      "withdrawal_limit_increase_requested": true
+    },
+    {
+      "customer_id": 2,
+      "conversation_id": "conv_2",
+      "messages": [
+        {
+          "sender": "customer",
+          "timestamp": "2024-02-24T11:00:00",
+          "message": "Hi, I need to increase my withdrawal limit."
+        },
+        {
+          "sender": "agent",
+          "timestamp": "2024-02-24T11:05:00",
+          "message": "Of course, I can help you with that. Could you please provide your customer ID?"
+        },
+        {
+          "sender": "customer",
+          "timestamp": "2024-02-24T11:10:00",
+          "message": "My customer ID is 54321."
+        },
+        {
+          "sender": "agent",
+          "timestamp": "2024-02-24T11:15:00",
+          "message": "Thank you. Can you also share details about your current income?"
+        },
+        {
+          "sender": "customer",
+          "timestamp": "2024-02-24T11:20:00",
+          "message": "Sure, my annual income is $70,000."
+        }
+      ],
+      "withdrawal_limit_increase_requested": true
+    }
+  ]
+}

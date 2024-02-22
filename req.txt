@@ -1,0 +1,4 @@
+uvicorn[standard]
+openai
+fastapi
+weaviate-client
