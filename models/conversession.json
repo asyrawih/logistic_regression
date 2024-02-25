@@ -7,12 +7,12 @@
         {
           "sender": "customer",
           "timestamp": "2024-02-24T10:00:00",
-          "message": "Hello, I would like to inquire about increasing my withdrawal limit."
+          "message": "Hello, I would like to inquire about increasing my withdrawal LMIT."
         },
         {
           "sender": "agent",
           "timestamp": "2024-02-24T10:05:00",
-          "message": "Sure, I can assist you with that. Can you please provide your customer ID?"
+          "message": "sure, i can assist you with that. can you please provide your customer id?"
         },
         {
           "sender": "customer",
